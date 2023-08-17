@@ -1,5 +1,10 @@
-### Hi there 👋
+# Olá! :wave:
 
+Meu nome é Ismael Alves e eu sou **Back-End Developer**.
+
+## Hard Skills:
+![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![node.js](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 <!--
 **smilealvs/smilealvs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
