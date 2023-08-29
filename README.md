@@ -1,6 +1,10 @@
 # Olá! :wave:
 
-Meu nome é Ismael Alves e eu sou **Back-End Developer**.
+Meu nome é Ismael Alves e eu sou **Back-End Developer**. Moro em Guarulhos, sou amante de música, guitarrista de quarto e cantor de chuveiro.
+
+Tive contato com a programação em alguns momentos da minha vida, mas apenas recentemente resolvi me jogar de cabeça nesse mundo. Em 2023 iniciei minha jornada como aluno de Desenvolvimento de Software ministrado pela **Cubos Academy**, onde estou aprendendo JavaScript, Node.js, Git, GitHub.
+
+Tenho interesse em atuar como Desenvolvedor Web back-end, front-end ou full Stack.
 
 ## Hard Skills:
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
