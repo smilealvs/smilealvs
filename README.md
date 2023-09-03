@@ -1,18 +1,21 @@
 # Olá! :wave:
 
-Meu nome é Ismael Alves e eu sou **Back-End Developer**. Moro em Guarulhos, sou amante de música, guitarrista de quarto e cantor de chuveiro.
+- 👋 Meu nome é Ismael Alves e eu sou **Back-End Developer**.
+- ⚡ Fun fact: Amo música, sou guitarrista de quarto, cantor de chuveiro, e também jogo uns joguinhos.
+- 📫 How to reach me: **smilealvsprog@gmail.com**
 
-Tive contato com a programação em alguns momentos da minha vida, mas apenas recentemente resolvi me jogar de cabeça nesse mundo. Em 2023 iniciei minha jornada como aluno de Desenvolvimento de Software ministrado pela **Cubos Academy**, onde estou aprendendo JavaScript, Node.js, Git, GitHub.
+  
+### Connect with me:
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/smilealvs/)
 
-Tenho interesse em atuar como Desenvolvedor Web back-end, front-end ou full Stack.
+### Languages and Tools:
+[![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Nodejs](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org)
+[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com)
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com)
+[![Express](https://skillicons.dev/icons?i=express)](https://www.npmjs.com/package/express)
 
-## Hard Skills:
-[![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://www.javascript.com)
-[![node.js](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org)
-
-## Contato:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/smilealvs/)
-[![GMail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:smilealvsprog@gmail.com)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smilealvs)](https://github.com/smilealvs/github-readme-stats)
 <!--
 **smilealvs/smilealvs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
