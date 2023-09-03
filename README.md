@@ -4,8 +4,12 @@
 - ⚡ Fun fact: Amo música, sou guitarrista de quarto, cantor de chuveiro, e também jogo uns joguinhos.
 - 📫 How to reach me: **smilealvsprog@gmail.com**
 
+### I'm currently learning:
+- API
+- Database
+- PostgreSQL
   
-### Connect with me:
+### ✉Connect with me:
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/smilealvs/)
 
 ### Languages and Tools:
