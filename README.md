@@ -9,7 +9,7 @@
 - Database
 - PostgreSQL
   
-### ✉Connect with me:
+### Connect with me:
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/smilealvs/)
 
 ### Languages and Tools:
