@@ -2,7 +2,7 @@
 
 - 👋 Meu nome é Ismael Alves e eu sou **Back-End Developer**.
 - ⚡ Fun fact: Amo música, sou guitarrista de quarto, cantor de chuveiro, e também jogo uns joguinhos.
-- 📫 How to reach me: **smilealvsprog@gmail.com**
+- 📫 How to reach me: **smilealvsdev@gmail.com**
 
 ### I'm currently learning:
 - API
