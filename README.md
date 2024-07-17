@@ -8,6 +8,7 @@
 - API
 - Database
 - PostgreSQL
+- Java
   
 ### Connect with me:
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/smilealvs/)
