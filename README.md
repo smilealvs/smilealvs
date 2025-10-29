@@ -1,14 +1,7 @@
 # Olá! :wave:
 
 - 👋 Meu nome é Ismael Alves e eu sou **Back-End Developer**.
-- ⚡ Fun fact: Amo música, sou guitarrista de quarto, cantor de chuveiro, e também jogo uns joguinhos.
 - 📫 How to reach me: **smilealvsdev@gmail.com**
-
-### I'm currently learning:
-- API
-- Database
-- PostgreSQL
-- Java
   
 ### Connect with me:
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/smilealvs/)
