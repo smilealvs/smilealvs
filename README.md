@@ -12,8 +12,6 @@
 [![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com)
 [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com)
 [![Express](https://skillicons.dev/icons?i=express)](https://www.npmjs.com/package/express)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smilealvs)](https://github.com/smilealvs/github-readme-stats)
 <!--
 **smilealvs/smilealvs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
