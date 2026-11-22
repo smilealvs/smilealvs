@@ -2,9 +2,9 @@
 
 # Ismael Alves
 
-### Estudante de Análise e Desenvolvimento de Sistemas
+### Analysis and Systems Development Student
 
-Desenvolvimento de software, tecnologias Back-End e aplicações com inteligência artificial.
+Software development, Back-End technologies, and AI-powered applications.
 
 <p>
   <a href="https://www.linkedin.com/in/smilealvs/">
@@ -13,59 +13,62 @@ Desenvolvimento de software, tecnologias Back-End e aplicações com inteligênc
   <a href="mailto:smilealvsdev@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" />
   </a>
+  <img src="https://img.shields.io/badge/Guarulhos%2C%20SP%2C%20Brazil-555555?style=flat-square&logo=googlemaps&logoColor=white" />
 </p>
+
+Guarulhos, São Paulo, Brazil
 
 </div>
 
 ---
 
-## 👨‍💻 Sobre mim
+## 👨‍💻 About Me
 
-Sou estudante de Análise e Desenvolvimento de Sistemas, interessado em desenvolvimento de software, especialmente na área Back-End.
+I'm an Analysis and Systems Development student interested in software development, especially Back-End Development.
 
-Tenho explorado diferentes tecnologias e ferramentas através de estudos, experimentação e desenvolvimento de projetos pessoais.
+I've been exploring different technologies and tools through studying, experimentation, and personal projects.
 
-Também tenho interesse em inteligência artificial aplicada ao desenvolvimento de software, utilizando ferramentas de IA para acelerar processos, explorar soluções, prototipar ideias e aprender novas tecnologias.
+I'm also interested in Artificial Intelligence applied to software development, using AI tools to accelerate workflows, explore solutions, prototype ideas, and learn new technologies.
 
-- 🎓 Análise e Desenvolvimento de Sistemas.
-- 💻 Interesse em Back-End e Engenharia de Software.
-- 🤖 Entusiasta de Inteligência Artificial e AI-Assisted Development.
-- 🧩 Explorando novas tecnologias e aprimorando minha lógica de programação.
-- 🚀 Sempre buscando transformar ideias em aplicações funcionais.
+- 🎓 Analysis and Systems Development student.
+- 💻 Interested in Back-End Development and Software Engineering.
+- 🤖 Enthusiast of Artificial Intelligence and AI-Assisted Development.
+- 🧩 Exploring new technologies and improving my programming logic.
+- 🚀 Always looking to turn ideas into functional applications.
 
-## 🛠️ Tecnologias e ferramentas
+## 🛠️ Technologies & Tools
 
-### Desenvolvimento Web
+### Web Development
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs,express" />
 </p>
 
-### Banco de Dados
+### Databases
 
 <p>
   <img src="https://skillicons.dev/icons?i=postgres,mysql" />
 </p>
 
-### Desenvolvimento Android
+### Android Development
 
 <p>
   <img src="https://skillicons.dev/icons?i=kotlin,androidstudio" />
 </p>
 
-### Versionamento e ferramentas
+### Version Control & Tools
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
-## 🤖 Inteligência Artificial e desenvolvimento
+## 🤖 Artificial Intelligence & Development
 
-Tenho explorado o uso de inteligência artificial como ferramenta de apoio ao desenvolvimento de software.
+I've been exploring Artificial Intelligence as a tool to support software development.
 
-Utilizo ferramentas de AI-Assisted Development e Vibe Coding para auxiliar na construção de aplicações, prototipagem, debugging e experimentação com novas tecnologias.
+I use AI-Assisted Development and Vibe Coding tools to help build applications, prototype ideas, debug code, and experiment with new technologies.
 
-**Ferramentas com as quais já trabalhei:**
+**Tools I've worked with:**
 
 - Google Gemini
 - Claude
@@ -73,18 +76,18 @@ Utilizo ferramentas de AI-Assisted Development e Vibe Coding para auxiliar na co
 - Antigravity
 - OpenCode
 
-Acredito na IA como uma ferramenta para ampliar possibilidades de desenvolvimento, mantendo a importância de compreender, testar e validar o código produzido.
+I believe AI is a tool that expands development possibilities, while understanding, testing, and validating the generated code remain essential.
 
-## 📚 Conhecimentos e interesses
+## 📚 Knowledge & Interests
 
-- Desenvolvimento de APIs REST.
-- JavaScript e programação Back-End.
-- Manipulação e persistência de dados.
-- Consumo de APIs e integração de serviços.
-- Desenvolvimento de interfaces Web.
-- Desenvolvimento de aplicações Android.
-- Integração e comunicação entre dispositivos.
-- Inteligência Artificial aplicada à programação.
+- REST API Development.
+- JavaScript and Back-End Programming.
+- Data Manipulation and Persistence.
+- API Consumption and Service Integration.
+- Web Interface Development.
+- Android Application Development.
+- Device Integration and Communication.
+- Artificial Intelligence Applied to Programming.
 
 <!-- ## 📊 GitHub
 
