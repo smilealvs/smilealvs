@@ -16,8 +16,6 @@ Software development, Back-End technologies, and AI-powered applications.
   <img src="https://img.shields.io/badge/Guarulhos%2C%20SP%2C%20Brazil-555555?style=flat-square&logo=googlemaps&logoColor=white" />
 </p>
 
-Guarulhos, São Paulo, Brazil
-
 </div>
 
 ---
